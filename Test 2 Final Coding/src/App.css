@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-top: 50px;
+}
+
+.App .title {
+  font-size: 5rem;
+  padding: 0px 20px 0px 20px;
+  background-color: #feddbe;
+  border-radius: 10px;
+  border: 2px solid black;
+  align-self: center;
+  color: #21094e;
+  font-family: "Hello Sans", cursive;
+}
